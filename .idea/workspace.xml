@@ -5,16 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df42ce6a-35d0-4dc0-91b1-c8e0ed2e9e83" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/coding_problems/Q1_PrintPrimaryDiagonalElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/coding_problems/Q2_AddNumAtLast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/coding_problems/Q3_MoveZerosToEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/coding_problems/Q4_PrintPrimeNumbersInReverseOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/coding_problems/Q5_ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/coding_problems/Q6_ReverseString_Variation2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/L2_StringsTopic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,15 +43,15 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "master",
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.3505747"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Q1_PrintPrimaryDiagonalElements">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.App" />
+  <component name="RunManager" selected="Application.Q6_ReverseString_Variation2">
+    <configuration name="L2_StringsTopic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.L2_StringsTopic" />
       <module name="shanthi-101-automation1" />
       <extension name="coverage">
         <pattern>
@@ -66,8 +63,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q1_PrintPrimaryDiagonalElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="coding_problems.Q1_PrintPrimaryDiagonalElements" />
+    <configuration name="Q4_PrintPrimeNumbersInReverseOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="coding_problems.Q4_PrintPrimeNumbersInReverseOrder" />
+      <module name="shanthi-101-automation1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="coding_problems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q5_ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="coding_problems.Q5_ReverseString" />
+      <module name="shanthi-101-automation1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="coding_problems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q6_ReverseString_Variation2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="coding_problems.Q6_ReverseString_Variation2" />
+      <module name="shanthi-101-automation1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="coding_problems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseString_optimized" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="coding_problems.ReverseString_optimized" />
       <module name="shanthi-101-automation1" />
       <extension name="coverage">
         <pattern>
@@ -81,8 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Q1_PrintPrimaryDiagonalElements" />
-        <item itemvalue="Application.App" />
+        <item itemvalue="Application.Q6_ReverseString_Variation2" />
+        <item itemvalue="Application.ReverseString_optimized" />
+        <item itemvalue="Application.Q5_ReverseString" />
+        <item itemvalue="Application.L2_StringsTopic" />
+        <item itemvalue="Application.Q4_PrintPrimeNumbersInReverseOrder" />
       </list>
     </recent_temporary>
   </component>
