@@ -12,7 +12,6 @@ public class Q6_ReverseString_Variation2 {
          */
 
         String str = "I am XYZ";  //Z YX maI
-
         char[] strArr = str.toCharArray();
 
         int i = 0;
