@@ -5,16 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df42ce6a-35d0-4dc0-91b1-c8e0ed2e9e83" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/coding_problems/Q10_PatterPrint2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/coding_problems/Q11_Swap2Strings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/coding_problems/Q7_String_Compression.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/coding_problems/Q8_PrintLetterTwice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/coding_problems/Q9_PatternPrint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/oopsTopics/ClsA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/oopsTopics/ClsB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/oopsTopics/PolymorphismTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/L3_ExceptionHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/L4_Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/L5_InsufficientFundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/collection_topics/C1_List.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/coding_problems/Q6_ReverseString_Variation2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/coding_problems/Q6_ReverseString_Variation2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,13 +47,52 @@
     "project.structure.side.proportion": "0.3505747"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.DemoPloymorphismTest">
+  <component name="RunManager" selected="Application.C1_List">
+    <configuration name="C1_List" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.collection_topics.C1_List" />
+      <module name="shanthi-101-automation1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.collection_topics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DemoPloymorphismTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.oopsTopics.DemoPloymorphismTest" />
       <module name="shanthi-101-automation1" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.oopsTopics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="L3_ExceptionHandling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.L3_ExceptionHandling" />
+      <module name="shanthi-101-automation1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="L5_ExceptionDemoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.L5_ExceptionDemoTest" />
+      <module name="shanthi-101-automation1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,52 +113,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q7_String_Compression" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="coding_problems.Q7_String_Compression" />
-      <module name="shanthi-101-automation1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="coding_problems.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q8_PrintLetterTwice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="coding_problems.Q8_PrintLetterTwice" />
-      <module name="shanthi-101-automation1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="coding_problems.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Q9_PatternPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="coding_problems.Q9_PatternPrint" />
-      <module name="shanthi-101-automation1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="coding_problems.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C1_List" />
+        <item itemvalue="Application.L5_ExceptionDemoTest" />
+        <item itemvalue="Application.L3_ExceptionHandling" />
         <item itemvalue="Application.DemoPloymorphismTest" />
         <item itemvalue="Application.Q11_Swap2Strings" />
-        <item itemvalue="Application.Q9_PatternPrint" />
-        <item itemvalue="Application.Q8_PrintLetterTwice" />
-        <item itemvalue="Application.Q7_String_Compression" />
       </list>
     </recent_temporary>
   </component>
