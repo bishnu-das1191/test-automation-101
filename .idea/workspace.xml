@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df42ce6a-35d0-4dc0-91b1-c8e0ed2e9e83" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/coding_problems/Q12_CountFrequencyOfChars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/coding_problems/Q13_MostFrequentChar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/coding_problems/Q14_FirstLetterUpperCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/coding_problems/Q15_PrintDuplicateWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/coding_problems/Q16_Merge2SortedArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/coding_problems/Q17_TwoSumProblem.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/coding_problems/Q3_MoveZerosToEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/coding_problems/Q3_MoveZerosToEnd.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,20 +49,7 @@
       <recent name="coding_problems" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TwoSum_Optimized">
-    <configuration name="C3_MAP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.collection_topics.C3_MAP" />
-      <module name="shanthi-101-automation1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.collection_topics.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Q3_MoveZerosToEnd">
     <configuration name="Q15_PrintDuplicateWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="coding_problems.Q15_PrintDuplicateWords" />
       <module name="shanthi-101-automation1" />
@@ -107,6 +89,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Q3_MoveZerosToEnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="coding_problems.Q3_MoveZerosToEnd" />
+      <module name="shanthi-101-automation1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="coding_problems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TwoSum_Optimized" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="coding_problems.TwoSum_Optimized" />
       <module name="shanthi-101-automation1" />
@@ -122,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Q3_MoveZerosToEnd" />
         <item itemvalue="Application.TwoSum_Optimized" />
         <item itemvalue="Application.Q17_TwoSumProblem" />
         <item itemvalue="Application.Q16_Merge2SortedArrays" />
         <item itemvalue="Application.Q15_PrintDuplicateWords" />
-        <item itemvalue="Application.C3_MAP" />
       </list>
     </recent_temporary>
   </component>
